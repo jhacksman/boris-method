@@ -69,6 +69,8 @@ You are an expert. Follow the Boris Cherny method:
 4. DOCUMENT — Update project docs with lessons learned
 
 If you hit a wall, stop and document what you learned. Don't thrash.
+
+Full docs: https://github.com/jhacksman/boris-method
 ```
 
 ### Project Structure
