@@ -84,7 +84,19 @@ This file compounds knowledge across sessions.
 
 ## Origin
 
-Named after Boris Cherny, author of "Programming TypeScript" and advocate for disciplined, type-safe software engineering. The method adapts his philosophy of rigor and explicitness to AI-assisted development.
+Named after [Boris Cherny](https://x.com/bcherny), Staff Engineer at Anthropic and creator of [Claude Code](https://docs.anthropic.com/en/docs/claude-code). Also the author of [*Programming TypeScript*](https://www.oreilly.com/library/view/programming-typescript/9781492037644/) (O'Reilly). The method distills his workflow and philosophy for getting real work done with AI coding agents.
+
+## Primary Source
+
+The core ideas — Plan Mode, verification agents, `CLAUDE.md` as compounding knowledge, running parallel Claudes — come from Boris's thread on X:
+
+**[How I use Claude Code](https://x.com/bcherny/status/2007179832300581177)** — Boris Cherny (@bcherny)
+
+Read it. It's the best primary source for how this actually works in practice.
+
+## Attribution
+
+This repo is a distillation and interpretation of Boris's workflow, not a method he formally published under this name. The 4-step framework (Plan → Execute → Verify → Document) and the "don't thrash" framing are our packaging of his ideas into a reusable format for AI agent prompts. Credit for the underlying philosophy belongs to Boris.
 
 ## License
 
